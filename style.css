@@ -323,8 +323,8 @@ main{
 .cta button{
     padding: 15px 50px;
     border-radius: 5px;
-   
-    font-size: 12px;
+    flex-wrap: wrap;
+    font-size: 10px;
 }
   
 }
@@ -385,7 +385,7 @@ main{
    
   }
   .section2 h3{
-  font-size: 2vw;
+  font-size: 1.6vw;
 }
   
 }
