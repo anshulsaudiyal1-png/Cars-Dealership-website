@@ -324,7 +324,7 @@ main{
     padding: 15px 50px;
     border-radius: 5px;
     flex-wrap: wrap;
-    font-size: 1vw;
+    font-size: 1.5vw;
     
 }
   
@@ -386,7 +386,7 @@ main{
    
   }
   .section2 h3{
-  font-size: 1vw;
+  font-size: 1.4vw;
 }
   
 }
